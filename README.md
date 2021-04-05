@@ -1,4 +1,5 @@
 TENSORFLOW SPEECH RECOGNITION CHALLENGE
+
 Sound is represented in the form of an audio signal having parameters such as frequency, bandwidth, decibel, etc.
  A typical audio signal can be expressed as a function of Amplitude and Time.
  ![image](https://user-images.githubusercontent.com/11537100/113579439-eee5a480-9641-11eb-883c-bdef2c9f25ee.png)
